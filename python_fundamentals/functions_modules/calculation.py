@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-"""Use functions from calculator_1."""
 
 from calculator_1 import add, sub, mul, div
 

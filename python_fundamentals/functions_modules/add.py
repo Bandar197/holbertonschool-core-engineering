@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-"""Import and use the add function."""
 
 from add_0 import add
 

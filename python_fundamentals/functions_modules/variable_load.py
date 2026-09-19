@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-"""Import and print a variable."""
 
 from variable_load_5 import a
 
